@@ -1,0 +1,11 @@
+name: PluginOfLasere
+version: 1.0.0
+author: Lasere
+main: fr.lasere.plugin.Main
+commands:
+  test:
+    description: ceci est une commands de test
+    permission: test.use
+  alert:
+    description: c est juste une grosse alert 
+    permission: perm.use
